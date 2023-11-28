@@ -12,4 +12,4 @@ This app showcases a recommendation system by using LLM minimum working examples
 
 ## Get an OpenAI API key
 
-You can get your own OpenAI API key by DM `nontaphat@mfec.co.th` on MicrosoftTeams
+You can get OpenAI API key by DM `nontaphat@mfec.co.th` on MicrosoftTeams
