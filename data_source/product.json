@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "Product": "Comprehensive Shield",
+            "Description": "Comprehensive Shield provides extensive coverage for your vehicle, protecting you against theft, accidents, natural disasters, and more. With this policy, you can drive with peace of mind, knowing that you're covered in various scenarios."
+        },
+        {
+            "Product": "Accident Forgiveness Plus",
+            "Description": "Accident Forgiveness Plus is designed to protect your driving record. In the event of an accident, this policy prevents your premium from increasing and ensures that your safe driving history is not affected. Drive confidently, knowing that a single accident won't impact your insurance costs."
+        },
+        {
+            "Product": "Roadside Assistance Deluxe",
+            "Description": "Roadside Assistance Deluxe offers a comprehensive package that goes beyond standard towing services. With this policy, you have access to round-the-clock emergency roadside assistance, including battery jump-starts, flat tire changes, fuel delivery, and even lockout assistance. Drive worry-free, knowing help is just a phone call away."
+        },
+        {
+            "Product": "Young Driver's Guardian",
+            "Description": "Young Driver's Guardian is specifically designed for new and inexperienced drivers. This policy offers specialized coverage that helps young drivers build a positive driving history while providing protection against accidents and theft. Enjoy competitive rates and guidance tailored to the needs of young drivers."
+        },
+        {
+            "Product": "Eco-Smart Auto Insurance",
+            "Description": "Eco-Smart Auto Insurance promotes environmentally-friendly driving. This policy rewards drivers of hybrid or electric vehicles with discounted premiums, encouraging the use of eco-friendly transportation. Join the movement for a greener future while saving on your car insurance."
+        },
+        {
+            "Product": "Pay-Per-Mile Plan",
+            "Description": "The Pay-Per-Mile Plan is ideal for infrequent drivers or those who primarily use public transportation. This usage-based insurance policy charges premiums based on the number of miles driven, allowing you to pay only for the miles you actually use. It's a cost-effective option that suits those with minimal driving needs."
+        },
+        {
+            "Product": "Classic Car Protection",
+            "Description": "Classic Car Protection is designed specifically for vintage and collector vehicles. This specialized policy offers tailored coverage that preserves the unique value of classic cars. Enjoy coverage that addresses the specific needs and risks associated with owning and driving a cherished automobile."
+        },
+        {
+            "Product": "Safe Driver Plus",
+            "Description": "Safe Driver Plus is a policy that rewards drivers with a clean driving record. Enjoy discounted premiums and additional benefits for maintaining a safe and responsible driving history. Drive confidently, knowing that your excellent driving skills are recognized and rewarded."
+        },
+        {
+            "Product": "Family Protection Bundle",
+            "Description": "The Family Protection Bundle is designed to provide comprehensive coverage for your entire family. This policy extends coverage to multiple vehicles and drivers, offering peace of mind for every member of your household. Simplify your insurance needs and protect your loved ones with this all-in-one package."
+        },
+        {
+            "Product": "Rideshare Coverage",
+            "Description": "Rideshare Coverage is tailored for drivers working with popular ridesharing platforms. This policy offers specialized protection that fills the gaps left by standard personal car insurance when using your vehicle for ridesharing purposes. Drive for Uber, Lyft, or other platforms knowing you're covered at all times."
+        },
+        {
+            "Product": "High-Value Vehicle Insurance",
+            "Description": "High-Value Vehicle Insurance provides premium coverage for luxury and high-end vehicles. With this policy, your exotic car or high-value automobile is protected against accidents, theft, and other risks. Enjoy specialized coverage that matches the unique value and features of your prized vehicle."
+        },
+        {
+            "Product": "Gap Coverage",
+            "Description": "Gap Coverage protects you against the financial gap that may occur if your car is declared a total loss due to an accident or theft. This policy covers the difference between your car's depreciated value and the amount you owe on your loan or lease. Drive with confidence, knowing that you won't be burdened with unexpected expenses."
+        }
+    ]
+}
