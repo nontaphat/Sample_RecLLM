@@ -1,10 +1,10 @@
-# 🤖 Sample Recommedation App 🤖
+# 🤖 Sample Recommendation App 🤖
 
 Starter examples for building LLM apps with Streamlit.
 
 ## Overview of the App
 
-This app showcases a recommenation system by using LLM minimum working examples.
+This app showcases a recommendation system by using LLM minimum working examples.
 
 ## Demo App
 
